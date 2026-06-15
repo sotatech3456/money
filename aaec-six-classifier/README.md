@@ -157,6 +157,20 @@ Run the hand-labeled long-form benchmark:
   --input-file modeling/long_form_benchmark.jsonl
 ```
 
+Rebuild the balanced benchmark and dump model errors for review:
+
+```bash
+.venv/bin/python -m modeling.build_curated_benchmark
+.venv/bin/python -m modeling.dump_predictions \
+  --model-path models/six-class-essay-classifier \
+  --input-file modeling/long_form_benchmark.jsonl \
+  --output-file reports/long_form_prediction_errors.csv
+```
+
+The benchmark is intentionally balanced across the six labels. Do not use it as
+training data; use it to identify systematic failures, then add separate
+training examples for the labels the model misses.
+
 ## Production Path
 
 1. Import AAEC, AbstRCT, ArgMicro, and PERSUADE.

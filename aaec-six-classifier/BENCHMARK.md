@@ -2,7 +2,7 @@
 
 Date: 2026-06-15
 
-## Current Run: Hand-Labeled Long-Form Benchmark
+## Current Run: Balanced Long-Form Benchmark
 
 Command:
 
@@ -15,26 +15,26 @@ Command:
 Dataset:
 
 - `modeling/long_form_benchmark.jsonl`
-- 18 benchmark rows
-- 3 examples per label
+- 150 benchmark rows
+- 25 examples per label
 
 Results:
 
 | Metric | Score |
 | --- | ---: |
-| Accuracy | 0.5000 |
-| Macro F1 | 0.4500 |
+| Accuracy | 0.4267 |
+| Macro F1 | 0.3535 |
 
 Per-label F1:
 
-| Label | Precision | Recall | F1 |
-| --- | ---: | ---: | ---: |
-| `cause_explanation` | 0.2500 | 1.0000 | 0.4000 |
-| `example_elaboration` | 1.0000 | 1.0000 | 1.0000 |
-| `contrast_concession` | 0.0000 | 0.0000 | 0.0000 |
-| `background_circumstance` | 0.0000 | 0.0000 | 0.0000 |
-| `summary_conclusion` | 1.0000 | 0.6667 | 0.8000 |
-| `evaluation_interpretation` | 1.0000 | 0.3333 | 0.5000 |
+| Label | Support | Precision | Recall | F1 |
+| --- | ---: | ---: | ---: | ---: |
+| `cause_explanation` | 25 | 0.2286 | 0.9600 | 0.3692 |
+| `example_elaboration` | 25 | 1.0000 | 1.0000 | 1.0000 |
+| `contrast_concession` | 25 | 0.0000 | 0.0000 | 0.0000 |
+| `background_circumstance` | 25 | 0.0000 | 0.0000 | 0.0000 |
+| `summary_conclusion` | 25 | 0.8750 | 0.5600 | 0.6829 |
+| `evaluation_interpretation` | 25 | 0.2500 | 0.0400 | 0.0690 |
 
 Unit tests:
 
@@ -52,18 +52,27 @@ The strongest class is `example_elaboration`. `summary_conclusion` is also promi
 
 ## Next Step
 
-Do not train a larger model first. The highest-impact next move is to improve the gold benchmark and add targeted examples for the weak labels.
+Do not train a larger model first. The highest-impact next move is to use this balanced benchmark to identify systematic label confusion, then add targeted training examples for the weak labels.
 
 Recommended next actions:
 
-1. Expand `modeling/long_form_benchmark.jsonl` from 18 rows to at least 120 rows.
-2. Add at least 25 hand-checked examples each for:
+1. Review `reports/long_form_prediction_errors.csv`.
+2. Add targeted training examples for:
    - `contrast_concession`
    - `background_circumstance`
    - `evaluation_interpretation`
-3. Add a prediction dump script that writes text, gold label, predicted label, and confidence to a CSV for fast error review.
-4. Retrain only after the benchmark exposes stable failure patterns.
-5. Use the benchmark as the gate before replacing the model in the web app.
+3. Retrain only after the benchmark exposes stable failure patterns.
+4. Use the benchmark as the gate before replacing the model in the web app.
+
+Observed error pattern:
+
+- 86 errors out of 150 rows
+- `background_circumstance`: 25/25 errors, all predicted as `cause_explanation`
+- `contrast_concession`: 25/25 errors, all predicted as `cause_explanation`
+- `evaluation_interpretation`: 24/25 errors, mostly predicted as `cause_explanation`
+- `summary_conclusion`: 11/25 errors, mostly predicted as `cause_explanation`
+
+This means the model is overusing `cause_explanation`. Accuracy will not improve reliably until the training data teaches stronger boundaries between reason sentences, contrast sentences, context sentences, and interpretation sentences.
 
 Target before public demo:
 

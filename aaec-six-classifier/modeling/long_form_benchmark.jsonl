@@ -1,19 +1,150 @@
-{"article":"Public Transit","text":"In recent years, many large cities have struggled with traffic congestion and rising air pollution.","label":"background_circumstance"}
-{"article":"Public Transit","text":"Because private cars occupy road space inefficiently, expanding public transit can reduce both delays and emissions.","label":"cause_explanation"}
-{"article":"Public Transit","text":"For example, Seoul and Vienna have shown that reliable rail networks can move large numbers of commuters with less environmental cost.","label":"example_elaboration"}
-{"article":"Public Transit","text":"However, critics argue that new transit systems are too expensive for cities already under budget pressure.","label":"contrast_concession"}
-{"article":"Public Transit","text":"This objection overlooks the fact that long-term health and productivity gains often outweigh the initial cost.","label":"evaluation_interpretation"}
-{"article":"Public Transit","text":"In conclusion, governments should treat public transportation as a core investment rather than an optional convenience.","label":"summary_conclusion"}
-{"article":"Online Learning","text":"Today, schools are under pressure to offer flexible learning options for students with different schedules and needs.","label":"background_circumstance"}
-{"article":"Online Learning","text":"Although online instruction cannot replace every classroom experience, it allows more students to stay connected to education during illness, travel, or family disruptions.","label":"contrast_concession"}
-{"article":"Online Learning","text":"For instance, recorded lectures and shared discussion boards give students multiple ways to review material at their own pace.","label":"example_elaboration"}
-{"article":"Online Learning","text":"Because these tools reduce barriers to access, they can improve participation for students who might otherwise fall behind.","label":"cause_explanation"}
-{"article":"Online Learning","text":"This suggests that the value of online learning lies not only in convenience but also in educational equity.","label":"evaluation_interpretation"}
-{"article":"Online Learning","text":"Overall, schools should combine online and in-person teaching instead of treating them as opposites.","label":"summary_conclusion"}
-{"article":"School Uniforms","text":"Historically, school uniform policies have been introduced as a way to create visible order in educational settings.","label":"background_circumstance"}
-{"article":"School Uniforms","text":"Supporters say uniforms reduce peer pressure by limiting competition over expensive clothes.","label":"cause_explanation"}
-{"article":"School Uniforms","text":"For example, when students wear similar outfits, visible status differences can become less immediate in daily interactions.","label":"example_elaboration"}
-{"article":"School Uniforms","text":"On the other hand, opponents contend that uniforms suppress self-expression and do little to address deeper causes of inequality.","label":"contrast_concession"}
-{"article":"School Uniforms","text":"That criticism is important because discipline policies should not be confused with real solutions to poverty or exclusion.","label":"evaluation_interpretation"}
-{"article":"School Uniforms","text":"Therefore, if schools adopt uniforms, they should do so modestly and without exaggerating what the policy can achieve.","label":"summary_conclusion"}
-
+{"article": "Public Transit", "text": "In recent years, many large cities have struggled with traffic congestion and rising air pollution.", "label": "background_circumstance"}
+{"article": "Public Transit", "text": "Because private cars occupy road space inefficiently, expanding public transit can reduce both delays and emissions.", "label": "cause_explanation"}
+{"article": "Public Transit", "text": "For example, Seoul and Vienna have shown that reliable rail networks can move large numbers of commuters with less environmental cost.", "label": "example_elaboration"}
+{"article": "Public Transit", "text": "However, critics argue that new transit systems are too expensive for cities already under budget pressure.", "label": "contrast_concession"}
+{"article": "Public Transit", "text": "This objection overlooks the fact that long-term health and productivity gains often outweigh the initial cost.", "label": "evaluation_interpretation"}
+{"article": "Public Transit", "text": "In conclusion, governments should treat public transportation as a core investment rather than an optional convenience.", "label": "summary_conclusion"}
+{"article": "Online Learning", "text": "Today, schools are under pressure to offer flexible learning options for students with different schedules and needs.", "label": "background_circumstance"}
+{"article": "Online Learning", "text": "Because these tools reduce barriers to access, they can improve participation for students who might otherwise fall behind.", "label": "cause_explanation"}
+{"article": "Online Learning", "text": "For instance, recorded lectures and shared discussion boards give students multiple ways to review material at their own pace.", "label": "example_elaboration"}
+{"article": "Online Learning", "text": "Although online instruction cannot replace every classroom experience, it allows more students to stay connected to education during disruptions.", "label": "contrast_concession"}
+{"article": "Online Learning", "text": "This suggests that the value of online learning lies not only in convenience but also in educational equity.", "label": "evaluation_interpretation"}
+{"article": "Online Learning", "text": "Overall, schools should combine online and in-person teaching instead of treating them as opposites.", "label": "summary_conclusion"}
+{"article": "School Uniforms", "text": "Historically, school uniform policies have been introduced as a way to create visible order in educational settings.", "label": "background_circumstance"}
+{"article": "School Uniforms", "text": "Supporters say uniforms reduce peer pressure by limiting competition over expensive clothes.", "label": "cause_explanation"}
+{"article": "School Uniforms", "text": "For example, when students wear similar outfits, visible status differences can become less immediate in daily interactions.", "label": "example_elaboration"}
+{"article": "School Uniforms", "text": "On the other hand, opponents contend that uniforms suppress self-expression and do little to address deeper causes of inequality.", "label": "contrast_concession"}
+{"article": "School Uniforms", "text": "That criticism is important because discipline policies should not be confused with real solutions to poverty or exclusion.", "label": "evaluation_interpretation"}
+{"article": "School Uniforms", "text": "Therefore, if schools adopt uniforms, they should do so modestly and without exaggerating what the policy can achieve.", "label": "summary_conclusion"}
+{"article": "Remote Work", "text": "After the rapid shift to home offices, many companies are reconsidering what daily work should look like.", "label": "background_circumstance"}
+{"article": "Remote Work", "text": "Remote work can raise productivity because employees lose less time to commuting and interruptions.", "label": "cause_explanation"}
+{"article": "Remote Work", "text": "For example, a software team may reserve office days for planning while completing focused coding tasks from home.", "label": "example_elaboration"}
+{"article": "Remote Work", "text": "Still, some managers argue that remote work weakens mentoring and makes collaboration feel less spontaneous.", "label": "contrast_concession"}
+{"article": "Remote Work", "text": "The real issue is not location itself but whether a team has clear communication habits and measurable goals.", "label": "evaluation_interpretation"}
+{"article": "Remote Work", "text": "For these reasons, companies should design flexible policies instead of forcing every job into one model.", "label": "summary_conclusion"}
+{"article": "Renewable Energy", "text": "Many countries are trying to update power grids while demand for electricity continues to grow.", "label": "background_circumstance"}
+{"article": "Renewable Energy", "text": "Renewable energy reduces long-term climate risk because it produces power without constantly burning fossil fuels.", "label": "cause_explanation"}
+{"article": "Renewable Energy", "text": "For instance, offshore wind farms can supply coastal regions while solar panels support daytime household demand.", "label": "example_elaboration"}
+{"article": "Renewable Energy", "text": "However, renewable sources can be intermittent, and storage technology still requires major investment.", "label": "contrast_concession"}
+{"article": "Renewable Energy", "text": "This limitation matters, but it shows the need for smarter infrastructure rather than a reason to abandon clean power.", "label": "evaluation_interpretation"}
+{"article": "Renewable Energy", "text": "Ultimately, governments should accelerate renewable energy while funding storage, transmission, and backup capacity.", "label": "summary_conclusion"}
+{"article": "Social Media Age Limits", "text": "Teenagers now encounter social platforms before many schools have taught digital citizenship in depth.", "label": "background_circumstance"}
+{"article": "Social Media Age Limits", "text": "Age limits may protect younger users because they reduce exposure to manipulation, harassment, and addictive design.", "label": "cause_explanation"}
+{"article": "Social Media Age Limits", "text": "For example, a platform could require stronger privacy defaults and restricted messaging for users under sixteen.", "label": "example_elaboration"}
+{"article": "Social Media Age Limits", "text": "Yet strict bans may also isolate teenagers from communities where they find support and creative opportunities.", "label": "contrast_concession"}
+{"article": "Social Media Age Limits", "text": "A simple ban is therefore less meaningful than a policy that changes incentives for platform design.", "label": "evaluation_interpretation"}
+{"article": "Social Media Age Limits", "text": "In summary, age rules should be paired with privacy protections, education, and enforcement against harmful features.", "label": "summary_conclusion"}
+{"article": "School Lunches", "text": "In many districts, school meals are one of the few reliable sources of nutrition for low-income students.", "label": "background_circumstance"}
+{"article": "School Lunches", "text": "Free lunches can improve learning because hungry students have more difficulty concentrating in class.", "label": "cause_explanation"}
+{"article": "School Lunches", "text": "For example, breakfast programs often help students arrive ready for exams instead of distracted by hunger.", "label": "example_elaboration"}
+{"article": "School Lunches", "text": "Some taxpayers object that universal programs also support families who could afford to pay.", "label": "contrast_concession"}
+{"article": "School Lunches", "text": "That concern is understandable, but means testing can create stigma and administrative waste.", "label": "evaluation_interpretation"}
+{"article": "School Lunches", "text": "Therefore, universal school meals are a practical investment in both health and classroom performance.", "label": "summary_conclusion"}
+{"article": "Urban Green Spaces", "text": "As cities become denser, residents often have fewer quiet outdoor places near their homes.", "label": "background_circumstance"}
+{"article": "Urban Green Spaces", "text": "Parks improve public health because they encourage exercise, reduce heat, and give people space to recover from stress.", "label": "cause_explanation"}
+{"article": "Urban Green Spaces", "text": "For instance, tree-lined walking paths can make a neighborhood cooler and more pleasant during summer.", "label": "example_elaboration"}
+{"article": "Urban Green Spaces", "text": "However, new parks can raise nearby rents and unintentionally push out the residents they were meant to serve.", "label": "contrast_concession"}
+{"article": "Urban Green Spaces", "text": "This risk means green planning must be connected to housing protection, not treated as decoration.", "label": "evaluation_interpretation"}
+{"article": "Urban Green Spaces", "text": "Overall, cities should build green spaces while guarding against displacement.", "label": "summary_conclusion"}
+{"article": "AI Tutors", "text": "Students increasingly use chatbots and adaptive software while studying outside the classroom.", "label": "background_circumstance"}
+{"article": "AI Tutors", "text": "AI tutors can help because they give immediate practice and explanations when a teacher is not available.", "label": "cause_explanation"}
+{"article": "AI Tutors", "text": "For example, a student can ask for another algebra problem after missing a step in the first solution.", "label": "example_elaboration"}
+{"article": "AI Tutors", "text": "Nevertheless, automated tutors may give incorrect feedback or encourage students to skip independent thinking.", "label": "contrast_concession"}
+{"article": "AI Tutors", "text": "Their value depends on using them as guided practice tools rather than replacements for teachers.", "label": "evaluation_interpretation"}
+{"article": "AI Tutors", "text": "To conclude, schools should allow AI tutoring with transparency, teacher oversight, and clear limits.", "label": "summary_conclusion"}
+{"article": "Plastic Bag Fees", "text": "Disposable plastic bags remain common in stores even as communities worry about waste and litter.", "label": "background_circumstance"}
+{"article": "Plastic Bag Fees", "text": "Small bag fees reduce waste because shoppers are more likely to bring reusable bags when single-use bags cost extra.", "label": "cause_explanation"}
+{"article": "Plastic Bag Fees", "text": "For instance, grocery stores can display reusable bags near checkout lanes to make the habit easier.", "label": "example_elaboration"}
+{"article": "Plastic Bag Fees", "text": "Critics argue that the fee can burden low-income shoppers who forget bags or rely on public transportation.", "label": "contrast_concession"}
+{"article": "Plastic Bag Fees", "text": "That objection shows why environmental policies should be simple, visible, and fair in daily life.", "label": "evaluation_interpretation"}
+{"article": "Plastic Bag Fees", "text": "For these reasons, bag fees should remain modest and be paired with free reusable options for vulnerable households.", "label": "summary_conclusion"}
+{"article": "Four-Day School Week", "text": "Some rural districts have adopted shorter school weeks to manage transportation costs and teacher shortages.", "label": "background_circumstance"}
+{"article": "Four-Day School Week", "text": "A four-day week may help recruitment because teachers gain more planning time and a better work-life balance.", "label": "cause_explanation"}
+{"article": "Four-Day School Week", "text": "For example, a district might use Fridays for tutoring, professional development, or extracurricular programs.", "label": "example_elaboration"}
+{"article": "Four-Day School Week", "text": "However, families may struggle to find childcare on the weekday when schools are closed.", "label": "contrast_concession"}
+{"article": "Four-Day School Week", "text": "The policy is only fair if communities measure its effect on students whose parents cannot stay home.", "label": "evaluation_interpretation"}
+{"article": "Four-Day School Week", "text": "In conclusion, districts should test shorter weeks carefully before treating them as a universal reform.", "label": "summary_conclusion"}
+{"article": "Public Libraries", "text": "Libraries now serve communities that need internet access, quiet study areas, and trusted local information.", "label": "background_circumstance"}
+{"article": "Public Libraries", "text": "Public libraries reduce inequality because they provide free resources that private markets often price out of reach.", "label": "cause_explanation"}
+{"article": "Public Libraries", "text": "For example, job seekers can use library computers to write resumes and complete online applications.", "label": "example_elaboration"}
+{"article": "Public Libraries", "text": "Some officials claim that digital information makes physical libraries less necessary.", "label": "contrast_concession"}
+{"article": "Public Libraries", "text": "That view misses the library's role as a shared civic space, not merely a warehouse for books.", "label": "evaluation_interpretation"}
+{"article": "Public Libraries", "text": "Therefore, cities should modernize libraries instead of cutting them when budgets tighten.", "label": "summary_conclusion"}
+{"article": "Homework Limits", "text": "Students often balance school assignments with sports, family responsibilities, and part-time work.", "label": "background_circumstance"}
+{"article": "Homework Limits", "text": "Limiting homework can improve well-being because excessive assignments reduce sleep and increase stress.", "label": "cause_explanation"}
+{"article": "Homework Limits", "text": "For instance, a teacher might replace nightly worksheets with one focused project and short review exercises.", "label": "example_elaboration"}
+{"article": "Homework Limits", "text": "At the same time, some practice outside class is necessary for skills such as writing and mathematics.", "label": "contrast_concession"}
+{"article": "Homework Limits", "text": "The question is not whether homework exists, but whether each assignment has a clear learning purpose.", "label": "evaluation_interpretation"}
+{"article": "Homework Limits", "text": "Overall, schools should set homework limits while preserving meaningful practice.", "label": "summary_conclusion"}
+{"article": "Electric Vehicles", "text": "Car manufacturers are releasing more electric models as governments set stricter emissions targets.", "label": "background_circumstance"}
+{"article": "Electric Vehicles", "text": "Electric vehicles can lower urban pollution because they do not release exhaust from tailpipes.", "label": "cause_explanation"}
+{"article": "Electric Vehicles", "text": "For example, city buses that run on electricity can reduce diesel fumes along crowded routes.", "label": "example_elaboration"}
+{"article": "Electric Vehicles", "text": "However, batteries require minerals whose mining can damage communities and ecosystems.", "label": "contrast_concession"}
+{"article": "Electric Vehicles", "text": "This tradeoff means clean transportation must include responsible supply chains, not just cleaner streets.", "label": "evaluation_interpretation"}
+{"article": "Electric Vehicles", "text": "Ultimately, electric vehicles should be expanded alongside recycling, transit, and ethical mineral standards.", "label": "summary_conclusion"}
+{"article": "Community Gardens", "text": "Vacant lots in many neighborhoods sit unused while residents lack affordable fresh produce.", "label": "background_circumstance"}
+{"article": "Community Gardens", "text": "Community gardens strengthen neighborhoods because residents work together on visible shared projects.", "label": "cause_explanation"}
+{"article": "Community Gardens", "text": "For instance, volunteers can grow tomatoes, herbs, and peppers on land that previously attracted trash.", "label": "example_elaboration"}
+{"article": "Community Gardens", "text": "Still, gardens require maintenance, water access, and long-term permission to use the land.", "label": "contrast_concession"}
+{"article": "Community Gardens", "text": "Their significance is social as much as nutritional because they give neighbors a reason to cooperate.", "label": "evaluation_interpretation"}
+{"article": "Community Gardens", "text": "For these reasons, cities should support gardens with small grants and secure land agreements.", "label": "summary_conclusion"}
+{"article": "High-Stakes Testing", "text": "Standardized exams influence school rankings, teacher evaluations, and student placement decisions.", "label": "background_circumstance"}
+{"article": "High-Stakes Testing", "text": "High-stakes tests can narrow instruction because teachers feel pressure to focus on tested material.", "label": "cause_explanation"}
+{"article": "High-Stakes Testing", "text": "For example, schools may reduce art, science projects, or class discussion to make more room for test drills.", "label": "example_elaboration"}
+{"article": "High-Stakes Testing", "text": "Supporters respond that common exams reveal achievement gaps that local grades might hide.", "label": "contrast_concession"}
+{"article": "High-Stakes Testing", "text": "That benefit is real, but it becomes harmful when one score is treated as a complete picture of learning.", "label": "evaluation_interpretation"}
+{"article": "High-Stakes Testing", "text": "In summary, tests should inform decisions without dominating the entire school year.", "label": "summary_conclusion"}
+{"article": "Bike Lanes", "text": "Many city streets were designed around cars long before cycling became a major commuting option.", "label": "background_circumstance"}
+{"article": "Bike Lanes", "text": "Protected bike lanes improve safety because they separate cyclists from fast-moving traffic.", "label": "cause_explanation"}
+{"article": "Bike Lanes", "text": "For instance, concrete barriers and painted intersections can make a busy avenue easier to navigate.", "label": "example_elaboration"}
+{"article": "Bike Lanes", "text": "Business owners sometimes worry that removing parking spaces will reduce customer visits.", "label": "contrast_concession"}
+{"article": "Bike Lanes", "text": "That fear should be tested with evidence because safer streets can also increase foot traffic.", "label": "evaluation_interpretation"}
+{"article": "Bike Lanes", "text": "Therefore, cities should expand bike lanes while monitoring effects on local businesses.", "label": "summary_conclusion"}
+{"article": "Minimum Wage", "text": "Living costs have risen in many regions while wages for service work have grown more slowly.", "label": "background_circumstance"}
+{"article": "Minimum Wage", "text": "A higher minimum wage can reduce poverty because full-time workers keep more income for rent, food, and transport.", "label": "cause_explanation"}
+{"article": "Minimum Wage", "text": "For example, a small increase may help a cashier cover bus passes and school supplies without extra shifts.", "label": "example_elaboration"}
+{"article": "Minimum Wage", "text": "Opponents warn that some small businesses may respond by hiring fewer workers.", "label": "contrast_concession"}
+{"article": "Minimum Wage", "text": "The policy's fairness depends on balancing worker dignity with support for employers under real pressure.", "label": "evaluation_interpretation"}
+{"article": "Minimum Wage", "text": "Overall, wage increases should be gradual, predictable, and paired with help for vulnerable small businesses.", "label": "summary_conclusion"}
+{"article": "Data Privacy", "text": "Apps collect location, browsing, and purchase data as ordinary users move through daily life.", "label": "background_circumstance"}
+{"article": "Data Privacy", "text": "Stronger privacy rules are needed because users cannot meaningfully negotiate with every service they use.", "label": "cause_explanation"}
+{"article": "Data Privacy", "text": "For example, a fitness app may collect health patterns that advertisers or insurers would find valuable.", "label": "example_elaboration"}
+{"article": "Data Privacy", "text": "Companies argue that data collection allows them to personalize services and keep products free.", "label": "contrast_concession"}
+{"article": "Data Privacy", "text": "Personalization is useful, but it does not justify hiding the real cost of surveillance from users.", "label": "evaluation_interpretation"}
+{"article": "Data Privacy", "text": "In conclusion, privacy law should require clear consent, data limits, and serious penalties for misuse.", "label": "summary_conclusion"}
+{"article": "Local Journalism", "text": "Many towns have lost newspapers as advertising revenue moved to large online platforms.", "label": "background_circumstance"}
+{"article": "Local Journalism", "text": "Local journalism supports democracy because reporters track school boards, courts, and city budgets.", "label": "cause_explanation"}
+{"article": "Local Journalism", "text": "For instance, a local reporter may uncover unsafe housing conditions that national outlets would never notice.", "label": "example_elaboration"}
+{"article": "Local Journalism", "text": "Some readers believe social media groups can replace newspapers for community information.", "label": "contrast_concession"}
+{"article": "Local Journalism", "text": "That replacement is incomplete because posts rarely provide verification, context, or sustained accountability.", "label": "evaluation_interpretation"}
+{"article": "Local Journalism", "text": "Therefore, communities should experiment with memberships, grants, and public support for local news.", "label": "summary_conclusion"}
+{"article": "Mental Health Days", "text": "Schools are seeing more students report anxiety, burnout, and difficulty returning after absences.", "label": "background_circumstance"}
+{"article": "Mental Health Days", "text": "Mental health days may prevent deeper problems because students can recover before stress becomes a crisis.", "label": "cause_explanation"}
+{"article": "Mental Health Days", "text": "For example, a student might use an approved absence to attend counseling and complete a catch-up plan.", "label": "example_elaboration"}
+{"article": "Mental Health Days", "text": "Yet schools must avoid creating a policy that is easy to abuse or that hides chronic attendance problems.", "label": "contrast_concession"}
+{"article": "Mental Health Days", "text": "The policy is meaningful only if it connects rest with support, not avoidance.", "label": "evaluation_interpretation"}
+{"article": "Mental Health Days", "text": "For these reasons, mental health days should be limited, documented, and paired with counseling access.", "label": "summary_conclusion"}
+{"article": "Public Art", "text": "Murals, sculptures, and performances often appear in spaces where many people pass each day.", "label": "background_circumstance"}
+{"article": "Public Art", "text": "Public art can improve civic identity because it gives residents visible symbols of shared history and creativity.", "label": "cause_explanation"}
+{"article": "Public Art", "text": "For example, a mural near a train station can honor immigrant communities that shaped the neighborhood.", "label": "example_elaboration"}
+{"article": "Public Art", "text": "However, residents may disagree about which stories deserve public money and public space.", "label": "contrast_concession"}
+{"article": "Public Art", "text": "That disagreement is productive when it leads to open selection processes rather than closed decisions.", "label": "evaluation_interpretation"}
+{"article": "Public Art", "text": "Ultimately, public art should be funded with community participation and transparent criteria.", "label": "summary_conclusion"}
+{"article": "Water Conservation", "text": "Drought-prone regions face pressure from population growth, agriculture, and changing rainfall patterns.", "label": "background_circumstance"}
+{"article": "Water Conservation", "text": "Conservation rules save water because they reduce waste before reservoirs reach emergency levels.", "label": "cause_explanation"}
+{"article": "Water Conservation", "text": "For instance, cities can offer rebates for low-flow fixtures and drought-resistant landscaping.", "label": "example_elaboration"}
+{"article": "Water Conservation", "text": "Farmers may argue that strict limits threaten crops and rural livelihoods.", "label": "contrast_concession"}
+{"article": "Water Conservation", "text": "That tension shows why water policy must distinguish essential use from avoidable waste.", "label": "evaluation_interpretation"}
+{"article": "Water Conservation", "text": "In summary, conservation should combine household rules, agricultural support, and long-term planning.", "label": "summary_conclusion"}
+{"article": "Coding Education", "text": "Many schools are adding programming lessons as digital tools shape more careers.", "label": "background_circumstance"}
+{"article": "Coding Education", "text": "Coding education builds problem-solving skills because students learn to break tasks into smaller steps.", "label": "cause_explanation"}
+{"article": "Coding Education", "text": "For example, beginners can write a simple quiz app that stores questions, checks answers, and shows feedback.", "label": "example_elaboration"}
+{"article": "Coding Education", "text": "However, not every student needs to become a professional software engineer.", "label": "contrast_concession"}
+{"article": "Coding Education", "text": "The broader value is computational thinking, which helps students understand systems even outside technology jobs.", "label": "evaluation_interpretation"}
+{"article": "Coding Education", "text": "Therefore, coding should be taught as a practical literacy rather than a narrow career track.", "label": "summary_conclusion"}
+{"article": "Museum Access", "text": "Museums preserve art, science, and history, but admission fees can exclude many families.", "label": "background_circumstance"}
+{"article": "Museum Access", "text": "Free museum days increase access because cost becomes less of a barrier to cultural learning.", "label": "cause_explanation"}
+{"article": "Museum Access", "text": "For instance, a family might visit a science exhibit on a free weekend and continue learning at home.", "label": "example_elaboration"}
+{"article": "Museum Access", "text": "Museum leaders may worry that free admission reduces revenue needed for staff and preservation.", "label": "contrast_concession"}
+{"article": "Museum Access", "text": "That concern is serious, but public institutions should measure success by reach as well as income.", "label": "evaluation_interpretation"}
+{"article": "Museum Access", "text": "Overall, museums should offer regular free access while seeking grants and memberships to protect operations.", "label": "summary_conclusion"}

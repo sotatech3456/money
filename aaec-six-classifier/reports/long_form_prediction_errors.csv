@@ -1,0 +1,87 @@
+article,gold_label,predicted_label,confidence,correct,text
+Public Transit,background_circumstance,cause_explanation,0.8187,false,"In recent years, many large cities have struggled with traffic congestion and rising air pollution."
+Public Transit,contrast_concession,cause_explanation,0.5804,false,"However, critics argue that new transit systems are too expensive for cities already under budget pressure."
+Public Transit,evaluation_interpretation,cause_explanation,0.4749,false,This objection overlooks the fact that long-term health and productivity gains often outweigh the initial cost.
+Online Learning,background_circumstance,cause_explanation,0.7988,false,"Today, schools are under pressure to offer flexible learning options for students with different schedules and needs."
+Online Learning,contrast_concession,cause_explanation,0.6566,false,"Although online instruction cannot replace every classroom experience, it allows more students to stay connected to education during disruptions."
+Online Learning,evaluation_interpretation,cause_explanation,0.4539,false,This suggests that the value of online learning lies not only in convenience but also in educational equity.
+School Uniforms,background_circumstance,cause_explanation,0.6985,false,"Historically, school uniform policies have been introduced as a way to create visible order in educational settings."
+School Uniforms,contrast_concession,cause_explanation,0.4921,false,"On the other hand, opponents contend that uniforms suppress self-expression and do little to address deeper causes of inequality."
+School Uniforms,summary_conclusion,cause_explanation,0.6164,false,"Therefore, if schools adopt uniforms, they should do so modestly and without exaggerating what the policy can achieve."
+Remote Work,background_circumstance,cause_explanation,0.8546,false,"After the rapid shift to home offices, many companies are reconsidering what daily work should look like."
+Remote Work,contrast_concession,cause_explanation,0.6609,false,"Still, some managers argue that remote work weakens mentoring and makes collaboration feel less spontaneous."
+Remote Work,evaluation_interpretation,cause_explanation,0.5659,false,The real issue is not location itself but whether a team has clear communication habits and measurable goals.
+Remote Work,summary_conclusion,cause_explanation,0.3028,false,"For these reasons, companies should design flexible policies instead of forcing every job into one model."
+Renewable Energy,background_circumstance,cause_explanation,0.7598,false,Many countries are trying to update power grids while demand for electricity continues to grow.
+Renewable Energy,contrast_concession,cause_explanation,0.7482,false,"However, renewable sources can be intermittent, and storage technology still requires major investment."
+Renewable Energy,evaluation_interpretation,cause_explanation,0.5034,false,"This limitation matters, but it shows the need for smarter infrastructure rather than a reason to abandon clean power."
+Social Media Age Limits,background_circumstance,cause_explanation,0.6574,false,Teenagers now encounter social platforms before many schools have taught digital citizenship in depth.
+Social Media Age Limits,contrast_concession,cause_explanation,0.5321,false,Yet strict bans may also isolate teenagers from communities where they find support and creative opportunities.
+Social Media Age Limits,evaluation_interpretation,cause_explanation,0.3277,false,A simple ban is therefore less meaningful than a policy that changes incentives for platform design.
+School Lunches,background_circumstance,cause_explanation,0.6469,false,"In many districts, school meals are one of the few reliable sources of nutrition for low-income students."
+School Lunches,contrast_concession,cause_explanation,0.4050,false,Some taxpayers object that universal programs also support families who could afford to pay.
+School Lunches,evaluation_interpretation,cause_explanation,0.4807,false,"That concern is understandable, but means testing can create stigma and administrative waste."
+School Lunches,summary_conclusion,cause_explanation,0.4541,false,"Therefore, universal school meals are a practical investment in both health and classroom performance."
+Urban Green Spaces,background_circumstance,cause_explanation,0.8205,false,"As cities become denser, residents often have fewer quiet outdoor places near their homes."
+Urban Green Spaces,contrast_concession,cause_explanation,0.8167,false,"However, new parks can raise nearby rents and unintentionally push out the residents they were meant to serve."
+Urban Green Spaces,evaluation_interpretation,cause_explanation,0.5487,false,"This risk means green planning must be connected to housing protection, not treated as decoration."
+AI Tutors,background_circumstance,cause_explanation,0.7839,false,Students increasingly use chatbots and adaptive software while studying outside the classroom.
+AI Tutors,contrast_concession,cause_explanation,0.7934,false,"Nevertheless, automated tutors may give incorrect feedback or encourage students to skip independent thinking."
+AI Tutors,evaluation_interpretation,cause_explanation,0.6721,false,Their value depends on using them as guided practice tools rather than replacements for teachers.
+Plastic Bag Fees,background_circumstance,cause_explanation,0.6965,false,Disposable plastic bags remain common in stores even as communities worry about waste and litter.
+Plastic Bag Fees,contrast_concession,cause_explanation,0.5135,false,Critics argue that the fee can burden low-income shoppers who forget bags or rely on public transportation.
+Plastic Bag Fees,evaluation_interpretation,cause_explanation,0.3813,false,"That objection shows why environmental policies should be simple, visible, and fair in daily life."
+Plastic Bag Fees,summary_conclusion,cause_explanation,0.3157,false,"For these reasons, bag fees should remain modest and be paired with free reusable options for vulnerable households."
+Four-Day School Week,background_circumstance,cause_explanation,0.6043,false,Some rural districts have adopted shorter school weeks to manage transportation costs and teacher shortages.
+Four-Day School Week,contrast_concession,cause_explanation,0.8424,false,"However, families may struggle to find childcare on the weekday when schools are closed."
+Four-Day School Week,evaluation_interpretation,cause_explanation,0.3328,false,The policy is only fair if communities measure its effect on students whose parents cannot stay home.
+Four-Day School Week,summary_conclusion,cause_explanation,0.4091,false,"In conclusion, districts should test shorter weeks carefully before treating them as a universal reform."
+Public Libraries,background_circumstance,cause_explanation,0.5545,false,"Libraries now serve communities that need internet access, quiet study areas, and trusted local information."
+Public Libraries,contrast_concession,cause_explanation,0.5416,false,Some officials claim that digital information makes physical libraries less necessary.
+Public Libraries,evaluation_interpretation,cause_explanation,0.5104,false,"That view misses the library's role as a shared civic space, not merely a warehouse for books."
+Public Libraries,summary_conclusion,cause_explanation,0.2954,false,"Therefore, cities should modernize libraries instead of cutting them when budgets tighten."
+Homework Limits,background_circumstance,cause_explanation,0.7708,false,"Students often balance school assignments with sports, family responsibilities, and part-time work."
+Homework Limits,contrast_concession,cause_explanation,0.8420,false,"At the same time, some practice outside class is necessary for skills such as writing and mathematics."
+Homework Limits,evaluation_interpretation,cause_explanation,0.6868,false,"The question is not whether homework exists, but whether each assignment has a clear learning purpose."
+Electric Vehicles,background_circumstance,cause_explanation,0.6513,false,Car manufacturers are releasing more electric models as governments set stricter emissions targets.
+Electric Vehicles,contrast_concession,cause_explanation,0.7698,false,"However, batteries require minerals whose mining can damage communities and ecosystems."
+Electric Vehicles,evaluation_interpretation,cause_explanation,0.5548,false,"This tradeoff means clean transportation must include responsible supply chains, not just cleaner streets."
+Community Gardens,background_circumstance,cause_explanation,0.7674,false,Vacant lots in many neighborhoods sit unused while residents lack affordable fresh produce.
+Community Gardens,contrast_concession,cause_explanation,0.6811,false,"Still, gardens require maintenance, water access, and long-term permission to use the land."
+Community Gardens,evaluation_interpretation,cause_explanation,0.6633,false,Their significance is social as much as nutritional because they give neighbors a reason to cooperate.
+Community Gardens,summary_conclusion,cause_explanation,0.3188,false,"For these reasons, cities should support gardens with small grants and secure land agreements."
+High-Stakes Testing,background_circumstance,cause_explanation,0.5852,false,"Standardized exams influence school rankings, teacher evaluations, and student placement decisions."
+High-Stakes Testing,contrast_concession,cause_explanation,0.5904,false,Supporters respond that common exams reveal achievement gaps that local grades might hide.
+High-Stakes Testing,evaluation_interpretation,cause_explanation,0.6357,false,"That benefit is real, but it becomes harmful when one score is treated as a complete picture of learning."
+High-Stakes Testing,summary_conclusion,evaluation_interpretation,0.2873,false,"In summary, tests should inform decisions without dominating the entire school year."
+Bike Lanes,background_circumstance,cause_explanation,0.7828,false,Many city streets were designed around cars long before cycling became a major commuting option.
+Bike Lanes,contrast_concession,cause_explanation,0.6684,false,Business owners sometimes worry that removing parking spaces will reduce customer visits.
+Bike Lanes,evaluation_interpretation,summary_conclusion,0.3014,false,That fear should be tested with evidence because safer streets can also increase foot traffic.
+Minimum Wage,background_circumstance,cause_explanation,0.6286,false,Living costs have risen in many regions while wages for service work have grown more slowly.
+Minimum Wage,contrast_concession,cause_explanation,0.5607,false,Opponents warn that some small businesses may respond by hiring fewer workers.
+Minimum Wage,evaluation_interpretation,cause_explanation,0.4464,false,The policy's fairness depends on balancing worker dignity with support for employers under real pressure.
+Data Privacy,background_circumstance,cause_explanation,0.8319,false,"Apps collect location, browsing, and purchase data as ordinary users move through daily life."
+Data Privacy,contrast_concession,cause_explanation,0.6021,false,Companies argue that data collection allows them to personalize services and keep products free.
+Data Privacy,evaluation_interpretation,cause_explanation,0.3098,false,"Personalization is useful, but it does not justify hiding the real cost of surveillance from users."
+Data Privacy,summary_conclusion,cause_explanation,0.2955,false,"In conclusion, privacy law should require clear consent, data limits, and serious penalties for misuse."
+Local Journalism,background_circumstance,cause_explanation,0.7786,false,Many towns have lost newspapers as advertising revenue moved to large online platforms.
+Local Journalism,contrast_concession,cause_explanation,0.4841,false,Some readers believe social media groups can replace newspapers for community information.
+Local Journalism,evaluation_interpretation,cause_explanation,0.7212,false,"That replacement is incomplete because posts rarely provide verification, context, or sustained accountability."
+Local Journalism,summary_conclusion,evaluation_interpretation,0.2942,false,"Therefore, communities should experiment with memberships, grants, and public support for local news."
+Mental Health Days,background_circumstance,cause_explanation,0.7145,false,"Schools are seeing more students report anxiety, burnout, and difficulty returning after absences."
+Mental Health Days,contrast_concession,cause_explanation,0.5152,false,Yet schools must avoid creating a policy that is easy to abuse or that hides chronic attendance problems.
+Mental Health Days,evaluation_interpretation,cause_explanation,0.5646,false,"The policy is meaningful only if it connects rest with support, not avoidance."
+Mental Health Days,summary_conclusion,cause_explanation,0.2891,false,"For these reasons, mental health days should be limited, documented, and paired with counseling access."
+Public Art,background_circumstance,cause_explanation,0.8408,false,"Murals, sculptures, and performances often appear in spaces where many people pass each day."
+Public Art,cause_explanation,evaluation_interpretation,0.3420,false,Public art can improve civic identity because it gives residents visible symbols of shared history and creativity.
+Public Art,contrast_concession,cause_explanation,0.6730,false,"However, residents may disagree about which stories deserve public money and public space."
+Public Art,evaluation_interpretation,cause_explanation,0.6168,false,That disagreement is productive when it leads to open selection processes rather than closed decisions.
+Water Conservation,background_circumstance,cause_explanation,0.7249,false,"Drought-prone regions face pressure from population growth, agriculture, and changing rainfall patterns."
+Water Conservation,contrast_concession,cause_explanation,0.4241,false,Farmers may argue that strict limits threaten crops and rural livelihoods.
+Water Conservation,evaluation_interpretation,cause_explanation,0.5367,false,That tension shows why water policy must distinguish essential use from avoidable waste.
+Coding Education,background_circumstance,cause_explanation,0.6013,false,Many schools are adding programming lessons as digital tools shape more careers.
+Coding Education,contrast_concession,cause_explanation,0.8066,false,"However, not every student needs to become a professional software engineer."
+Coding Education,evaluation_interpretation,cause_explanation,0.5596,false,"The broader value is computational thinking, which helps students understand systems even outside technology jobs."
+Museum Access,background_circumstance,cause_explanation,0.6462,false,"Museums preserve art, science, and history, but admission fees can exclude many families."
+Museum Access,contrast_concession,cause_explanation,0.5578,false,Museum leaders may worry that free admission reduces revenue needed for staff and preservation.
+Museum Access,evaluation_interpretation,summary_conclusion,0.3388,false,"That concern is serious, but public institutions should measure success by reach as well as income."
