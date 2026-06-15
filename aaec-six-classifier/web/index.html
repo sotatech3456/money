@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>AAEC Six-Class Classifier</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <section class="workspace">
+        <div class="intro">
+          <p class="eyebrow">English-only argument sentence classifier</p>
+          <h1>AAEC Six-Class Classifier</h1>
+          <p>
+            Paste an English essay and classify each sentence as reason, example,
+            contrast, background, conclusion, or interpretation.
+          </p>
+        </div>
+
+        <form id="classify-form" class="editor">
+          <textarea id="text-input" spellcheck="true">Although public transport can be expensive to build, it reduces traffic and pollution. For example, cities with strong train networks often have cleaner air. In recent years, many governments have searched for ways to make cities more sustainable. Therefore, leaders should invest in reliable public transit.</textarea>
+          <div class="actions">
+            <button type="submit">Classify</button>
+            <button type="button" id="sample-button" class="secondary">Load Sample</button>
+          </div>
+        </form>
+      </section>
+
+      <section class="status-row" id="status-row" hidden>
+        <div id="status-text"></div>
+      </section>
+
+      <section class="results-grid">
+        <div class="result-panel">
+          <div class="panel-heading">
+            <h2>Sentence Results</h2>
+            <span id="sentence-count">0 sentences</span>
+          </div>
+          <div id="results" class="results"></div>
+        </div>
+
+        <aside class="legend">
+          <h2>Labels</h2>
+          <div id="legend-list"></div>
+        </aside>
+      </section>
+    </main>
+
+    <script src="/app.js"></script>
+  </body>
+</html>
+
